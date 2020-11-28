@@ -13,7 +13,7 @@ async function getData(){
 
 let modeObj = localStorage.getItem("modeObj");
 
-if(modeObj.theme == undefined){
+if(mdeObj == null || modeObj.theme == undefined){
     setTheme(model);
 }else{
     setTheme(modeObj);
