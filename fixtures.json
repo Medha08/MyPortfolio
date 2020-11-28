@@ -1,0 +1,26 @@
+[
+    {
+        "theme":"light",
+        "location":"default.css",
+        "ques":"What I do?",
+        "ans":"I am a software developer and I love both code and coffee."
+    },
+    {
+        "theme":"green",
+        "location":"./themes/green.css",
+        "ques":"What is my aspiration?",
+        "ans":"To somehow be able to help in upliftment of society"
+    },
+    {
+        "theme":"blue",
+        "location":"./themes/blue.css",
+        "ques":"What am I passionate about?",
+        "ans":"Technology and Growth"
+    },
+    {
+        "theme":"purple",
+        "location":"./themes/purple.css",
+        "ques":"Tech I am interested in?",
+        "ans":"ReactJS,Mongo,NodeJS,ExpressJS"
+    }
+]
